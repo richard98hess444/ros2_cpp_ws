@@ -1,0 +1,10 @@
+# Build folder
+build/
+install/
+log/
+
+# Vscode folder
+.vscode/
+
+# Bash file
+*.sh
